@@ -1,5 +1,11 @@
 # First-Project
-- [ ] new github repo
-- [ ] setup terminal on mac
-- [ ] setup folder on mac
-- [ ] clone project 
+- [x] new github repo
+- [x] setup terminal on mac
+- [x] setup folder on mac
+- [x] clone project 
+- [x] Create new branch
+- [x] edit readme in sublime
+- [ ] comit changes in new branch
+- [ ] push request to github
+- [ ] pull request from github.
+- [ ] merge
