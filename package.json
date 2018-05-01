@@ -1,0 +1,24 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "- [x] new github repo - [x] setup terminal on mac - [x] setup folder on mac - [x] clone project  - [x] Create new branch - [x] edit readme in sublime - [ ] comit changes in new branch - [ ] push request to github - [ ] pull request from github. - [ ] merge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "http-server"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Csudipta/First-Project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Csudipta/First-Project/issues"
+  },
+  "homepage": "https://github.com/Csudipta/First-Project#readme",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
+}
